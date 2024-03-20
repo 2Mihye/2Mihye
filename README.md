@@ -1,8 +1,7 @@
 ## Hi there 👋 I'm Mihye.
 
 
-
-<p align="center">[![GitHub Streak](https://streak-stats.demolab.com?user=2Mihye&theme=ambient-gradient)](https://git.io/streak-stats)</p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=2Mihye&theme=ambient-gradient)](https://git.io/streak-stats)
 
 
 
