@@ -33,5 +33,5 @@
 <h3 align="center">🐰 Connect with Me ! 🍑</h3>
 <p align="center">
   <a href="https://jobsoony.tistory.com/"><img src="https://img.shields.io/badge/Tech%20Blog-F15B5B?style=flat-square&logo=Tistory&logoColor=white&link=https://jobsoony.tistory.com/"/></a>&nbsp
-  <a href="mailto:seungae.leemihye0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leemihye0@gmail.com"/></a>
+  <a href="mailto:leemihye0@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=leemihye0@gmail.com"/></a>
 </p>
