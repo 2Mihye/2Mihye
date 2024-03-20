@@ -1,6 +1,5 @@
 ## Hi there 👋 I'm Mihye.
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Mihye)](https://github.com/anuraghazra/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com?user=2Mihye&theme=ambient-gradient)](https://git.io/streak-stats)
 
 
