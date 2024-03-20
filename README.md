@@ -1,5 +1,8 @@
 ## Hi there 👋 I'm Mihye.
 
+<img src="https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Mihye's%20Github&fontSize=90" />
+
+
 <p align="center"><a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=2Mihye&theme=ambient-gradient" alt="GitHub Streak" /></a></p>
 
 
