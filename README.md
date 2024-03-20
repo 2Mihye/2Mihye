@@ -1,5 +1,7 @@
 ## Hi there 👋 I'm Mihye.
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=2Mihye)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <h3 align="center">👩🏻‍💻 Tech Stack 🛠️</h3>
 <p align="center">
